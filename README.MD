@@ -20,4 +20,4 @@
 - **PyVis** — создание интерактивных графов для визуализации взаимосвязей.
 - **IPython** — удобное отображение результатов в Jupyter Notebook.
 
-![alt text](src\image.png)
+![alt text](src/image.png)
